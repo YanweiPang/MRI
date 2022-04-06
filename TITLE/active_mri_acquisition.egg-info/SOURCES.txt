@@ -1,0 +1,7 @@
+README.md
+setup.py
+active_mri_acquisition.egg-info/PKG-INFO
+active_mri_acquisition.egg-info/SOURCES.txt
+active_mri_acquisition.egg-info/dependency_links.txt
+active_mri_acquisition.egg-info/requires.txt
+active_mri_acquisition.egg-info/top_level.txt

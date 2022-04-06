@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: active-mri-acquisition
+Version: 0.1.0
+Summary: A reinforcement learning environment for active MRI acquisition.
+Home-page: UNKNOWN
+Author: Facebook AI Research
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence :: Medical Imaging
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+
+UNKNOWN
+

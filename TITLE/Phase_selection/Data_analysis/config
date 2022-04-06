@@ -1,0 +1,6 @@
+test config:
+python ./examples/run_evaluation.py --baseline ss-ddqn evaluator_path ./activemri/saved_models_recon/miccai2020_reconstructor_raw_normal.pth --baseline_device "cuda" --dqn_checkpoint_path  ./checkpoint/policy_checkpoint.pth --output-dir ./results/org
+
+train config:
+# For ss transformer
+./examples/train_ddqn.sh ./checkpoint/TITLE/ miccai 4 transformer 0
